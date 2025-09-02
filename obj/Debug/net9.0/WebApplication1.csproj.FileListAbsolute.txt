@@ -1,0 +1,7 @@
+D:\MyProjects\TEXTChunkers\Demo\obj\Debug\net9.0\WebApplication1.csproj.AssemblyReference.cache
+D:\MyProjects\TEXTChunkers\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\MyProjects\TEXTChunkers\Demo\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\TEXTChunkers\Demo\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+D:\MyProjects\TEXTChunkers\Demo\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+D:\MyProjects\TEXTChunkers\Demo\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\MyProjects\TEXTChunkers\Demo\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
